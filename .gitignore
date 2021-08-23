@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 Box
+.DS_Store
